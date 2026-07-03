@@ -130,11 +130,7 @@ Simple and responsive task management application.
 
 ---
 
-# 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ellenannaji&theme=tokyonight&no-frame=true&row=1)
-
----
 
 # 🌱 Currently Learning
 
