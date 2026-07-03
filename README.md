@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm **Liya Lukose**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm **Ellen Ann Aji**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Building+Real+World+Projects)](https://git.io/typing-svg)
 
